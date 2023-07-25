@@ -8,3 +8,4 @@
 - [Sybil Obodoekwe](https://github.com/sibylobodoekwe)
 - [Abiodun Ogunleye](https://github.com/temibiodun)
 - [Chibuzor Ojukwu](https://github.com/codedken)
+- [Opeyemi Adenuga](https://github.com/Aopeyemi98)
